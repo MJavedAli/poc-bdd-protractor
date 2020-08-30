@@ -1,4 +1,4 @@
-# XYLEM Interview Test Automation Framework
+# protractor-bdd-Test Automation Framework
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
